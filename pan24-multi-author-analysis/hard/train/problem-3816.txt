@@ -1,0 +1,6 @@
+Anyone have more knowledge on what weapons system the strike was made with? I wasn't aware of Ukrainian missile capabilities.
+My understanding of the weapons system was incorrect, the munitions are very much guided post launch.
+We no longer manufacture unguided munitions for the HIMARS. No HIMARS munition flies a purely ballistic flight profile. Hell, most tube artillery doesn't do that these days.
+The only way you get to a majority is if you include all of the mortars; pretty much everything in the active inventory for the field artillery (549, 795, and all of the 58 cal families of munitions) are fin stabilized and anything we're manufacturing at this point is equippable with additional PG kits (literally connect the plug and bolt it on).
+Arguably the base bleeds could still be called a ballistic profile if not fin stabilized, but that still only gets you to like three out of the twenty or so manufactured LIN's of US 155mm. I'd have to check what's still in production for the 105mm but it's almost entirely base bleed for the ammo in the unit basic load.
+VT fuse has nothing to do with whether the profile is purely ballistic. Pre-sequenced stabilizer alignment and deployment makes the trajectories non-ballistic, usually to ensure the rounds come in at a very high angle.

@@ -1,0 +1,8 @@
+Thanks for the link with the chart that supports my point, even though it feels like you posted this as a counter.
+There's clearly a lot more alternative energy production now than 20 or 30 years ago (when it was close to none).
+Baseline Power: Yep, that what's happening if there is a mix of different forms of energy and no extreme high amount of renewables or nuclear, e.g. germany right now. There is no issue running 3 (or previously 6) nuclear power plants covering 10% when you produce something around 40% by wind and PV.
+Okay, so you're saying that the variance of solar/wind is too great to allow nuclear to provide the overwhelming majority of baseline power?
+So, what would compliment solar/wind effectively other than coal/oil/gas that we can dial up and down or massive energy storage capacity to even it out? After all, I'm not hearing a problem with nuclear so much as a warning about over-relying on solar/wind.
+There can be a need for nuclear when wind and solar is at it's limit but that isn't the case in any country right now.
+But if you extend wind and pv (which is happening) you will have more and more days reaching 100%, where you don't need any other power. Let's assume you now make 80% with renewables in average - that probably means that probably half a year you don't need anything else, but for something like two weeks a year you need to cover 100%. This is not something you want to do with a nuclear power plant for technical and economical reasons.
+Nuclear power plants can reduce power to 80% load quite easily, newer ones even to 50%ish range. Going below drastically reduces cycle treshhold (can't recall exact numbers, but it was something like from 20.000 to 2000).).

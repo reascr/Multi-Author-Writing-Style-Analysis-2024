@@ -1,0 +1,7 @@
+Bruh... the article clearly mentions the "LRU" (Lance Roquette Unitaire), which isn't the base model M270. One does not need to speak French to guess that "roquette unitaire" means "unitary rocket" (so no cluster munitions). The LRU is the French name for the European version of the M270A1... which is basically the same thing as the German MARS II and Italian MLRS-I (the upgrade program was a cooperation involving the 3 countries).
+MARS II/LRU/MLRS-I - French/German/Italian M270A1, just with an Airbus fire control system that removes the ability to fire cluster rockets due to their signing the ban on cluster munitions. Also includes a different automatic fire extinguisher system.
+M270A1 - 2005 upgrade with a new fire control system and the ability to fire GPS guided rockets such as the M30, M31, M39A1, M48, M57, and M57E1.
+M270A2 - 2019 upgrade with a new fire control system that allows it to use a new lighter weight battlefield ballistic missile called the Precision Strike Missile (PrSM).
+It brought back 13 of them in 2014 with a M270A1 modernization effort that notably removed the ability to operate cluster rockets from it.
+It's an old decommissioned M26 rocket motor, with a soon to be decommissioned GBU-39A (SDB - Small Diameter Bomb) on top.
+Is not the base version wheeled with very light armor, while MARS II is more heavily armoured, tracked and with twice the rocket capacity?

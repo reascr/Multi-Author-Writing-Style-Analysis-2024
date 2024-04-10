@@ -1,0 +1,7 @@
+Interesting, and I assume some high level military official is about to have a conversation with SpaxeX about this.
+If the Pentagon told them to do this, that's pretty much out of their hands and if you have a problem with it, go talk to the Pentagon.
+If SpaceX themselves did this, well, did they talk to the Pentagon about it? If this is something they shouldn't have done, the Pentagon will come talking.
+This will also accelerate exploration of Starlink alternatives because no user wants to see a critical service be subject to the whims of an asshat plutocrat.
+Yeah, I imagine using Starlink for military purposes opens a whole can of compliance/regulatory worms that SpaceX does not want to deal with. It may make it less useful for civilian applications.
+Civilian sats are already dual-use items. Something isn't magically "civilian only" just because the vendor says it is. It matters what it can be used for, not what it's intended use is. Ukraine demonstrated Starlink has military uses (likely not surprising anyone), so if it wasn't dual use before (it likely was) or will be soon.
+The US government was GPS guided bombs and missiles. They operate off the exact same satellite signals. You think those are limited in any ways other than technical ones?

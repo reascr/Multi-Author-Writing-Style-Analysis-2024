@@ -1,0 +1,5 @@
+Several tricks to trick inspectors. Talk attention grab so they don't notice something. They end up not testing a specific thing or for a specific thing. All because of quick thinking or sometimes you made sure everything happened fast someone move past them. Maybe it was hidden in they kept them from noticing.
+Unfortunately, you are also incorrect. I stand by my statement, melting sea ice makes no change to sea level. First to make a quick correction, most of the iceberg is below the surface. The density of ice is less than but close to the density of water.
+How do we get the ice to float? Displace the equivalent mass in water. How much volume should that be? From above, at the density of water, it needs to displace 100 volume units. That leaves 10 volume units of the ice remaining visible above the surface.
+Yes, an iceberg is partially submerged and partially above the water. That is because ice is less dense than water.
+Now, let’s freeze that water. We still have 100 mass units but let’s say ice has a density ratio of 0.9 because we know it is less dense. So we have approximately 110 volume units to use round numbers.

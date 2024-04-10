@@ -1,0 +1,8 @@
+no way. it's not just the recording (which absolutely would cause noticeable battery drain). it's also, for example, the transmission to a server, which also needs power, storage, and decoding capabilities.
+that's my entire point -- the ways our data IS harvested tend to be far more subversive and potentially dangerous than "my device is always recording me".
+all more complex and, honestly, creepy than simply "my smartphone is recording me 24/7" (which isn't really possible and has basically been debunked as a tracking method).
+it's a weird concept, because the way devices DO track people (location data, previously connected networks and common access points, contact information with linked social media accounts, third-party cookies, and more) are all WAY more worrisome and harder to fix than "my smartphone is recording all my conversations" (which, again, is basically impossible on a large scale).
+electronic devices use even more subversive ways to track you, like shared wi-fi connections, allowed access to your contacts and their apps, IP addresses, etc., the reality is both more complex and more insidious than "the microphones are listening" (which wouldn't work well for data collection, anyway).
+either way, yeah, your smartphone is 100% spying on you in several ways and reporting to several groups, some strictly for profit, some strictly for analysis, and some doing one of those in return for the other.
+Whether it’s the Chinese, or American tech companies, they’re all harvesting your data and spying on you.
+It is effectively spyware, stealing far more data and with far more malicious intent the average corporate data collection.

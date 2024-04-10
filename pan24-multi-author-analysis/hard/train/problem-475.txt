@@ -1,0 +1,5 @@
+My guess is that the number of such requests / returns are relatively small in comparison to allowing the entire state to take advantage of this procedure. Thus, much easier to process than an entire state.
+You included a link to fvap.gov. I can see where the states are empowered to send overseas voters Absentee Ballot Applications by electronic means, but my quick perusal did not find how the voters could vote by email.
+You could also allow people to revote and only count the last ballot making it almost impossible to force someone to vote how you want, you just need a good verification system but that's no different than when I use the Global Entry website.
+For 1 I don't see how that would become a major issue. You'd have to have people going door to door forcing people to vote in front of them, what if they already voted? Oops you can see that I did vote but not who for, same as absentee ballots today.
+You're entire argument is "someone, somewhere may try something bad so we shouldn't ever try." You know people can steal paper ballot boxes? We probably shouldn't vote at all then.

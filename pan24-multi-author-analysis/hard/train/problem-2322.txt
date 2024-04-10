@@ -1,0 +1,6 @@
+Fuck yeah This is something scientists have been trying to achieve for over half a century I know its still just a small step towards a limitless energy future, but its an important one. It proves it can be done.
+If the laser is 1 watt power output for a 100 watt input, that makes the laser 1% efficient yes, but how you get 0.02% doesnt make any sense, since the reaction output is greater than the laser input.
+If the laser took 100x the energy to charge, that would be a 1% efficiency... 0.02% would be 50,000 times more.
+Divide 100 by 1.2, and you get 83.3, so to charge the laser took 83.3 time more energy than the reaction output, making it 1.2% efficient in total, not 0.02%. Otherwise by your metric, making the laser 1 to 1 would be 2%, and that doesnt add up.
+Say they used 1 watt from the laser to make 1.2 watts. Cool. It takes 100 watts to charge the laser.
+The "energy in the lasers" is not the energy used to create the laser pulses. In the case of the NIF only about 1% of the energy used to create the pulse actually makes it to the target.

@@ -1,0 +1,6 @@
+Consider how much our lives revolve around wi-fi, bluetooth, gps and whatnot, the chinese gov knowing where you are is just another entity to the pile of entities that do.
+It's a small part of a worrying trend of phones, IP Cameras and even toys, manufactured by Chinese companies, that are sending and receiving data from servers in China.
+The NSA is up to similar right now, they will intercept computer equipment destined for somone or a country of interest add modified firmware to hard drives, base band radios, parts that end-users don't have easy access to, and therefore cannot easily detect modification, that facilitates covert spying.
+These could be secretly designed for espionage from the outset, with spying code hidden in firmware, but I think it's more likely that they could be hacked by a Chinese government agency if needed, with cooperation with the companies themselves or quietly with help from an individual within a company.
+"The discovery of devices is believed by intelligence sources to be indicative of China’s broad approach to eavesdropping on the West rather than a specific targeting of ministers’ vehicles.".
+I mean, yea. They own it. Truth is that a lot of things that you might think is american or made in EU is owned by chinese people. Its pretty much impossible not to buy Chinese things.

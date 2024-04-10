@@ -1,0 +1,7 @@
+I’m no fan of the CCP, but mad props to China for that mission. Say what you will; they are only the second nation to operate a rover on Mars. And it lasted a year.
+A year is fine, but let's be real. Anyone sending a rover mission would like it to last until the next Mars transfer window opens, which is about 3.5 years. Then you can have a working rover until your next mission and be learning about running rovers all the time.
+It takes a lot of coordination of complex and limited resources to interact in a useful way with a rover on mars.
+The first was the UAE's Hope orbiter and how it was gently going to be inserted into Mars orbit to perform studies of the atmosphere.
+Next to arrive was China's Tianwen-1 orbiter and how it would also be gently inserted into Mars orbit. After 4-5 days of systems checks, it would release the Zhurong lander to safely parachute onto the surface.
+I remember a story on British media regarding the 2021 Mars missions that arrived around the same time.
+First step is using a Mars orbiter to receive the rover signals, to transmit to appropriate receivers on earth. I think they did some experiments to see if the ESA orbiter could be used to relay Zhurong signals, it’s feasible but not something that could be done routinely or in parallel with the orbiter’s other jobs.

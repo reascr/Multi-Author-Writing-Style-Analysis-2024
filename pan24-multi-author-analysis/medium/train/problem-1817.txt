@@ -1,0 +1,6 @@
+Physicists have since the 1950s sought to harness the fusion reaction that powers the sun, but no group had been able to produce more energy from the reaction than it consumes – a milestone known as net energy gain or target gain.
+isn't it net energy gain compared to the energy beams that hit the fuel pellet? DOE labs measure it that way and apparently the rest of the world doesn't? Which would be hugely misleading regarding break even point unless we are to just ignore all the missed energy inputs.
+only if your laptop battery can charge in a couple millionths of a second. And it will cost you a couple of billions, we take Visa/Master for your convinience.
+is it though? At this institution, don't they measure the energy input by the amount absorbed by the fuel pellet? Which means all the missed energy beams just straight up don't count, according to this lab. apparently this is not the standard way to do this.
+ie. you would still need the fusion reaction to heat water to generate steam to produce actual useable electrical energy which can then be fed back into the lasers. You lose energy at every step of the way.
+also another huge problem is that they’re measuring the energy coming out of the reaction as a whole, not the energy that would be produced by a generator which would be needed to create the feedback loop.

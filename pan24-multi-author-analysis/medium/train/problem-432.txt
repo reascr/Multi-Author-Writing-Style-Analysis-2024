@@ -1,0 +1,5 @@
+I dunno; people seem to simultaneously over- and underestimate these ML systems. I think they are going to change things in ways we will find difficult to predict but having casually played with Stable Diffusion, getting a masterpiece out of it still requires a lot of work. People won’t be obsolete for a while.
+I asked to write a handful of stories and noticed its limits. Repeated some phrases and plot lines. Try “Tell me a story about X and their siblings”… really cool nonetheless.
+AI for fiction writing is also going to be huge. Combined with AI generated video, we'll likely be able to create our own movies within most of our lifetimes. Then we just need a holodeck!
+Today, you can, with a little/lot of prompt engineering, img2img, and inpainting get out some really stunning works.
+Tomorrow tricks will be learned on the systems of today, higher quality datasets and tagging will be used (go look at the LAION dataset and wonder just how it's able to make responses as good as they are now) new compositional techniques developed (I want a sun here, mountains here, forest here etc... I want a blue goat standing on a red car).

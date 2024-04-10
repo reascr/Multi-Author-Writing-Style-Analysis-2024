@@ -1,0 +1,6 @@
+If we want nuclear to have a future, that trend needs to be reversed. Its competing against renewables that have managed to decrease prices by like 90% in the past 20 years.
+The cost of grid storage fell by 90% in ten years. It’s getting exponentially cheaper over time, already, today.
+They’ll probably end up in some niche use cases where some combination of factors make renewables unworkable in an area, but not as the main source of electricity.
+Ill also point out that I think more grid storage is needed regardless, its both useful for controlling the grid and if you want to reduce NG plants youll have to have it as otherwise its hard to replace how fast those can turn on.
+A grid that would be 100% renewables would need batteries just like a 100% nuclear grid would (although in some countries they do load follow with nuclear but thats an expensive challenge and not efficient).
+I think in reality if we want off carbon sources fast, both work well together to make that happen and eventually battery/storage tech will get so good that nuclear will probably become totally unnecessary. I think thats further out that the person i was responding to.

@@ -1,0 +1,6 @@
+I think this eases the pressure. If Tesla is going to own the network then they won’t need to worry about it. Soon they’ll start to complain that Tesla hasn’t built enough capacity or they are charging too much.
+Tesla is not very forthcoming on when, if ever, it will open up its chargers to other vehicles. 2024 is the soonest Tesla is "considering it" and the logistics are hard.
+Tesla's proprietary plug only fits Tesla's so Tesla has to build and sell an adapter. Then Tesla has to find a way to communicate with the all the different cars EV charging systems. Tesla chargers are dependent on the car and charger direct communication, there's no login device, no billing device.
+Tesla chargers have no communication device, it is all handled by the car/charger direct so software would need to be created and adapted to all the other mfgs.
+There's no CCS to Tesla adapter as yet. It would be a new product for Tesla to build or create and sell the specs.
+Good money making measure for Tesla. Although, their network isn’t big enough to handle all electric cars out now and definitely won’t be in 2024. But it’s the best we have and better than nothing.

@@ -1,0 +1,6 @@
+There are a few jokes here but yes, china has a lot of different laws regarding software designed to be released, this can be small things like certain terminology or what is allowed to be shown for instance Chinese versions of videos games will have additional censorship.
+I believe the US Tesla software and the EU tesla software is quite different to due to the requirements around being able to classify the self driving technology so some features are disabled/enable to comply with specific laws.
+If you bothered to read the article, Tesla is recalling mostly American made cars that were imported into China between 2013 and 2020 because Chinese regulators found safety issues with them.
+If you actually look with any depth ibto this issue itll be clear Tesla are market leading in car safety and with how they approach recalls and that its a good sign they don't care less if that comes with negative headlines.
+Would you rather Tesla makes airbags work better following AI impact analysis and takes the hit on being slandered for a "recall", or not bother making their cars even safer than they already are?
+If tesla do some crash testing and figure out a better algorithm for airbag deployment they deliver the benefit to customers.

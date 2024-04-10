@@ -1,0 +1,6 @@
+Interesting perspective, every smart device has a unique id when accessing www or giving access to any other devices became very easy to track and "vulnerable". Thank you for sharing your thoughts with us. 🤝.
+•	According to the developers, attempts to turn this data collection off, such as selecting the Settings option “disable the sharing of Device Analytics altogether” did not affect the data from being sent.
+•	Apple is collecting this data regardless of a user’s settings where they are given the option to turn data collection off, possibly giving them a false sense of privacy.
+And it won’t, Device Analytics shares ALL the data about the device with Apple and not just Apple use you, it also doesn’t prevent a 3rd party app that uses a log in from collecting data.
+Any app you log into can track you, Meaning the Facebook app can still see everything you do on the app, they just can’t get data from Apple about other apps and services you use.
+Edit- “Ask not to track” means Apple isn’t gonna share data with other developers about other apps you use, etc. This cuts down on targeted ads and helps prevent a company from building a profile on you.

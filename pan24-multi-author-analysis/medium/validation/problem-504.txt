@@ -1,0 +1,12 @@
+Even if that were implemented, it'll still be better for the environment than vehicle-mounted internal combustion engines.
+The best way for me to describe it is as a combination of , the , and ; moreover, you need to think of fossil fuel power plants as giant engines in order for it to make sense.
+The combustion chambers of big engines have more volume relative to their external surface area than smaller engines, meaning that, for each unit of heat they produce, less of that heat radiates outwards through the surface area, meaning more fuel energy gets turned into usable energy.
+If an engine is a cube 1 meter by 1 meter by 1 meter in size, it has 1 m3 of volume to burn things in (heat production) and 6 m2 of surface area to loose heat through (heat loss). That's a generation:loss ratio of 1:6.
+Scale that engine up twice. Now, it's a cube 2 meters by 2 meters by 2 meters in size. It has 8 m3 of volume and 24 m2 of surface area; a ratio of 1:3.
+Scale the first engine up ten times and you get one that's 10 meters by 10 meters by 10 meters, with 1,000 m3 of volume and only 600 m2 of surface area. Now, the ratio is 5:3.
+Huh, seems to be true. But I thought clouds raise albedo, and spraying seawater into the air was proposed for that purpose? "Marine cloud brightening". So that's confusing.
+"Water is a greenhouse gas," is a common denialist talking point. Its true, but by and large, it isn't an enhanced greenhouse gas, because it saturates in air based on temperature and condenses. Most parts of the atmosphere already have all the water they are going to get, give or take the day's weather. The greenhouse effect is why the planet has an average temperature above freezing. The enhanced greenhouse effect is why that temperature is increasing, and it's the effect of concern.
+Also; a lot of various hydrogen-nitrogen compounds, (like Ammonia), including hydrazine, hydrogen cyanide, diimide, nitric oxide (and other NOx species), most of which are kind of toxic and nasty.
+Obviously, an all-green power grid is the best option, but big fossil fuel-powered electric plants driving electrolysis to fuel hydrogen engines is still better than those hydrogen engines being replaced with gasoline ones.
+Burning Hydrogen with ONLY Oxygen, produces H2O - only, which is less of a concern than the NOx-es. These turbines will burn hydrogen in AIR, not Oxygen.
+Adding water vapour at particular heights in the air column can be somewhat problematic, but the effect likely isn't as significant or long lived as CO2 emission effects.

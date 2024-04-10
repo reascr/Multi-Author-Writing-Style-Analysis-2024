@@ -1,0 +1,6 @@
+Edit- “Ask not to track” means Apple isn’t gonna share data with other developers about other apps you use, etc. This cuts down on targeted ads and helps prevent a company from building a profile on you.
+TDLR: Apple is collecting data exactly how it says it is, while Mysk is using clever wording to mislead and file a lawsuit.
+This is also the difference in Google and Apple, Apple shares data in a way that’s usually useless outside of app development, and developers generally can’t track back.
+And it won’t, Device Analytics shares ALL the data about the device with Apple and not just Apple use you, it also doesn’t prevent a 3rd party app that uses a log in from collecting data.
+•	Apple is collecting this data regardless of a user’s settings where they are given the option to turn data collection off, possibly giving them a false sense of privacy.
+Apple has been avoiding talking about its TOS publicly, specifically its privacy policy ever since the announcement of the "Do not track" feature. It's a taboo topic alongside encryption on the iCloud, considering the position and reasons of Apple on the encryption of their devices (again for privacy reasons).

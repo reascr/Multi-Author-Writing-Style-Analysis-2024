@@ -1,0 +1,6 @@
+The balloons were at 80,000+ ft but seems they are now "maneuvering" at 60,000 ft -- which is still well above the CF-18's gun range.
+They don't need balloons for that. A balloon can only carry a limited payload, which by definition must be disposable.
+Edit: looking at the video, it looks like it was a pressurized type balloon, rather than a zero pressure aerostat.
+If it's a pressurized balloon, then yes. If it's an aerostat/zero pressure type balloon, no. You can poke holes in it, but the gas will escape very, very slowly.
+Balloons like this are actually really hard to shoot down. The contents inside the envelope are pretty much at the same pressure as the atmosphere so they don’t just pop.
+Years ago, a research balloon out of Saskatchewan failed to terminate its mission (they’re built with a heating wire that cuts them wide open). When the balloon got out over the Atlantic, the Canadian government sent a pair of CF-18s after it. The two jets unloaded their Vulcan Cannons into the balloon. And nothing happened. Eventually, the balloon came down on its own in Sweden.

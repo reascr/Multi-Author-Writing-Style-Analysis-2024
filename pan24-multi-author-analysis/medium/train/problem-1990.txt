@@ -1,0 +1,5 @@
+When the internet was new, it used to get cited as a source until people learned to say, "Just because you saw it on the internet doesn't make it true".
+We're about to have to do the same thing with AI. Maybe Raphael is the artist behind this painting. Maybe he isn't. AI jumping to that conclusion doesn't make it true. I've seen AI jump to wildly inaccurate conclusions.
+A painting with a long-unknown origin was almost certainly a work of the master painter Raphael, according to new analysis using artificial intelligence.
+Researchers from the University of Nottingham and the University of Bradford found that facial recognition technology puts the painting in question at a 97 per cent match with one of Raphael’s most famous works, suggesting that the exact same models were used for the two paintings.
+The de Brécy Tondo, a 95-centimetre circular painting, has long been theorized to be a work of Raphael, with researchers and historians carrying out numerous investigations of the painting over the past 40 years.

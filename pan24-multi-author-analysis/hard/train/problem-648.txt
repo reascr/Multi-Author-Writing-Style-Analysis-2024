@@ -1,0 +1,7 @@
+Do you have any knowledge on solar paint ? I read an article years ago about how it’s going to be the next big solar thing and then never heard a word about after that.
+I mean no solar panel NEEDS direct sunlight (have you ever seen a solar calculator? Those work fine indoors). The point is you are losing efficiency off the bat by having fewer photons per cm^2 of solar panel. Then losing even more efficiency by letting light through instead of absorbing.
+These panels, can't be as efficient as rooftop solar because every photon that goes through it, to bring in light or let you see out, is a wasted photon.
+So in this case you ask, what do these panels do that regular windows and solar panels aren't already doing?
+A lot more expensive to build than using regular windows + solar panels generating as much electricity.
+Panels for the sake of panels are not worth it, they have to actually be worth it in the first place when put directly on buildings. Otherwise it is better to get electricity from the grid, and let someone else make good use of the panels.
+If you don't have a good spot for regular solar panels, installing them in sub par location does not solve that problem. Putting solar panels on every building is not effective usage of resources. It's solar roadways all over again as someone mentioned.

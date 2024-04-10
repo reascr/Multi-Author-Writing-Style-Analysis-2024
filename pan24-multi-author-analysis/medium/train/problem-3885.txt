@@ -1,0 +1,5 @@
+"At the time, Facebook tried to play down the breach — claiming the data that had been found floating around online was “old data” and that it had fixed the issue that led to the personal data being exposed".
+It's a good thing for the users but jeez does it suck for developers.. if your data has enough variety you inevitably end up in grey areas getting puzzled over legalese, so daunting. Hopefully your experience is better than mine was lol.
+Great to hear! So as long as you have very recently changed your 'old' name, birth date, and cell number...as we all know most responsible people do, there is nothing to worry about.
+Mine was definitely better, some rough edges in 2016-2017 but since then everywhere I've worked had pretty good guidelines and a engaged data privacy officer/department in place to figure out the legal aspects.
+As an European citizen and software engineer I see no issue in forcing companies to abide by a minimum level of data privacy. The cost is small compared to benefits to society.

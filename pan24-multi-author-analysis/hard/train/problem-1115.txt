@@ -1,0 +1,6 @@
+I'm hoping they only use excess electricity for hydrogen production, otherwise it's pretty dumb to go from solar to hygrogen then back to electricity for no reason. Very inefficient.
+There's no bigger picture. It's basic math. I think you're either misunderstanding how a power plant works or a misunderstanding of efficiency in the conversion.
+If the grid needs power right this second, it's inefficient to convert to hydrogen first then send that through a fuel cell. If the sun is shining, it's best to dump the power straight to the grid. If the grid is full at that moment, then dump the excess into hydrogen and store it for later use in the fuel cell.
+Hydrogen should be the last resort to store energy, when any other system of storing energy can't receive more. In that case is better to store in hydrogen (even with it's huge inefficiency) than simply waste it.
+Unless you use it to store excess energy you can't currently store in any other way, it's very wasteful.
+Of course not, but we need some kind of energy storage when we want to archive 100% renewable. Also gas is used in chemical processes as well, not only for electricity production.

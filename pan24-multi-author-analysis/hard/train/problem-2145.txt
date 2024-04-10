@@ -1,0 +1,7 @@
+> Since iOS 15, users can locate their iPhone 11 or later for up to 5 hours after the phone battery was drained, or 24 if it was turned off by the user manually (SE 2nd and 3rd generation excluded), thanks to the power reserve.
+Participating in the Find My network lets you locate this iPhone even when it's offline, in power reserve mode, and after power off.
+In essence, if you have the "Find My Network" enabled your device locates other devices and in turn can be located other devices.
+I believe it uses Bluetooth LE to broadcast a signal. Other iDevices can then receive that signal and pass it onto Apple.
+Apple can even track your location even if your Apple device is turned off, using other Apple users near you. The chip components of your device actually still have power and tracking is still active.
+I (actually apple) can track my iPhone's location, even when its powered off, no data & while moving. using find my network (you can "turn it off" but judging by this news).
+Google Messages RCS uses e2e encryption. Apple doesn't have a secure sms client either. No one does lol sms is from the 90s & Apple insists to keep using it as default fallback instead of updating to something more modern like RCS, SMS is very outdated & not secure, just shows Apple don't actually care about Privacy & Security.

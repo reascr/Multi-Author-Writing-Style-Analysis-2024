@@ -1,0 +1,7 @@
+"Our drones are so effective, that you only think the drones that Russia is using are our drones (to great effect, mind you - though we have no idea where they came from). That's how great they are.".
+Quantitatively I can’t be precise because I don’t know what budget and supply chain constraints we are working with but from an engineers perspective, adding autonomy is far cheaper R&D wise. Qualitatively, however:
+Ukraine has a huge stock of diesel locomotives. Literally everything military-related is being transported by them.
+2. These are fairly modular subsystems so your integration engineering requirements are going be minimal.
+This. Iran has a very good middle of the road dumb drone. It matters now only because this type of warfare is in its infancy. They don't have the manufacturing capacity or the automated piloting that the west does.
+3. Additionally, the ability to have real time communication/preprogrammed trajectories with limited autonomy can allow one to skip major upgrades in computing / power.
+The fact that Russia is depending on a 5th rate nation like Iran for this only shows how desperate they are.

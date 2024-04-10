@@ -1,0 +1,8 @@
+If you deduct state taxes paid in a prior year, a stat tax refund is considered taxable the next year. This has been IRS policy for decades.
+Then file my state return, and claim a 5k refund. If I did that, the IRS would tax my 5k refund, so you can't avoid federal income taxes.
+I think the IRS will side with the states and call it a refund, so people who itemized their deductions will need to pay taxes on it.
+The real question here (and why the IRS needs to provide guidance) is if these payments are tax refunds or some other kind of income.
+State and local tax refunds are taxable because the tax paid was deductable from federal income in the year it was paid.
+If I pay my state an extra $5k that I don't owe, I get to deduct that from my income for federal taxes (called the SALT deduction which only exists if you itemize). I then file my state return and get all that money back "tax free." Now next year, I have to declare that refund as income because that money wasn't taxed before (the deduction).
+If this isn't a refund, but just a payment (like the Alaska Permanent Fund), it is taxed normally. Just because it came from a state doesn't change the fact that it is income. Once again, that income was never previously taxed.
+IRS: yeah, we think we should tax all of these middle income earners twice though. That’s easier then figuring this out or actually going after tax avoidance.

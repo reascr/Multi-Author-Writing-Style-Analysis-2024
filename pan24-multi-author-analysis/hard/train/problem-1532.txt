@@ -1,0 +1,6 @@
+Yes, many faults are constantly near failure at all times, especially near an actively deforming margin. Faults share the stress among them in what is called "stress partitioning". If one fault fails and you have a lot of displacement to accommodate, all critically stressed faults will follow suit.
+Most faults have lots of little ones connected to them, and those will sometimes move a bit too in response to the change in stress regime.
+Earthquake on a different but related fault can be considered a new earthquake or if smaller than can be called an aftershock.
+I haven’t kept count on how many ordinary earthquakes vs aftershocks there have been but I’m sure each of these have their own shares. .
+This would mean that the 7.8 and 7.5 were two different quakes, with the latter not a terribly strong aftershock.
+Big earthquakes can produce aftershocks. Additionally, you can have situations where one fault will have an earthquake and displace itself, taking pressure off of (or adding to) a nearby fault, which then will eventually set off an earthquake of its own.

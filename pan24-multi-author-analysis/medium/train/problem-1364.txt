@@ -1,0 +1,7 @@
+It's actually open source code that provides a template for anyone to build their own social network like Twitter. It's what Trump did with Truth Social. Gab is built on Mastodon, too. You can get it on GitHub. It's basically the foundational code and totally free to use. Twitter is proprietary. Musk had to buy access to Twitter's code.
+Best analogy would be Twitter is like iOS, Mastodon is like Android. Anyone can build on top of Mastodon.
+Then the lower levels are different between a cell phone and a laptop/desktop. A cell phone is going to be using an ARM processor usually, whereas a desktop/laptop are going to be using an x86-64 kind of processor. I say that because 9/10 android won't be on a laptop or desktop.
+Well, to put it in layman's, the Kernal is lower, core level software that's the liaison between your low level firmware on say a hard drive or CPU and the high level software like Firefox.
+Android is not exactly Linux as it has a different high level software like a different interface, different programming languages and ultimately runs differently on the higher layers of software.
+Linux is not actually considered an OS, despite the layman interpretation that it is as an OS requires a separate piece of software to interface with the Linux kernel.
+And that's just if you bunch all of the variant's of Linux together. There's tons of variants of Linux out there on top of that too that all run in their own way. Ubuntu, Fedora, SUSE... The list goes on.

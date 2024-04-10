@@ -1,0 +1,8 @@
+magnetic field IS the thing confining the plasma from touching the walls! but it acts like jello, and does not want to be confined. I am not surprised that a new magnetic field setup might yield some improvements in confining the plasma.
+but basically you need atoms to be VERY hot inorder to fuse together. so you use an AC varying magnetic field to heat up a rarified gas. if you pump enough energy into this rarified gas, the electrons depart, and you end up with a plasma.
+also you have the nasty habit of this super heated plasma wanting to touch the metal housing that all this is going on inside of, and the stainless steel wants to melt if that happens. SO you need to physically keep the plasma away from the metal walls. the magnetic fields are designed to do this too.
+The magnetic field breakthrough is just one piece of the puzzle, but it gets us closer because it's another thing checked off the list.
+That's because there are a ton of hurdles that must be overcome to make it a reality. I'm not educated enough on nuclear fusion to comment on what those are, so I'll analogize it with my basic understanding of landing on the moon.
+When you work out the rocket fuel, that's a "major breakthrough." when you figure out the flight controls, that's a major breakthrough. You can have several breakthroughs before you're even close to making the project a reality.
+Be glad they're at least talking about a breakthrough, instead of fusion reaching some made up milestone.
+I've seen nuclear fusion researchers say the running gag is that it's been a century away for decades now.

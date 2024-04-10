@@ -1,0 +1,18 @@
+It's never been particularly reliable. Videos of crimes are usually shitty CCTV cameras, for one thing. It's often impossible to prove beyond a reasonable doubt who is even in the video.
+Something as simple as cutting out the first couple minutes can completely alter how people interpret a video, anyway.
+Yeah, I mean you don't even need to cut out anything for people to interpret videos differently. Any high profile case of police action demonstrate that there will always be people making contradictory arguments. The Rittenhouse footage being a case in point.
+I got suspended for school for that one. The one I’m standing in right now as a teacher. With a law degree. Who tells kids things like what you said are free speech. When they’re kids, so it sticks.
+It used to be cool to descramble DirecTV. They’re irradiating your damn property anyway, right? Well, now it’s not. Because a printer stuck it in a bill and nobody noticed, and Clinton signed it.
+Signatures are made with private keys, and private keys embedded into devices will never ever possibly leak.
+Fascists can keep trying, but the day the morons in DoJ let RIAA and MPAA play Paw Patrol with the FBI over filesharers? They made me.
+Christ almighty i could go on for days. Columbine happened three months before I started high school and the whole world went bonkers overnight. I’m still mildly shocked the internet is as free as it is.
+You buy a burner phone from the corner store, crack it open with that magic $10.000 screwdriver, yoink the key, make a video in Final Cut iMovie, and sign the result. Viola, "the man" thinks your obvious fake came directly from the phone's camera.
+“Oh no, the physical object i sold you with no silly little contract that I actually could have tagged on the case but didn’t isn’t actually your physical object.”.
+“We’re gonna label this an audio CD with our restricted trademark, but when you stick it in your PC, we’re gonna rootkit ya, even if ya reject the license we tried to tag on the media in a non-standard format.
+Now, if your question was instead meant to be: how do you produce a video that could also be verifiably traced to a specific individual's device? Well, first off we don't have this capability today, and won't be able to rely on having it until this hypothetical technology gains widespread market adoption. But say it does - then, you'd use any of the existing methods of planting evidence; techniques can vary in , but it's something we, humans, have been doing for millennia.
+You don't need to recall every camera (a unique private key can be trivially generated on each device), but you're correct in principle: certificate revocation in general is a real-world problem, and we're talking monitoring the integrity of billions of devices.
+I'm also confident that this technology (as proposed by OP) will never actually become a reality, since it would be a massive privacy disaster (forget geotagging photos and accidentally leaking your physical location, this is "undeletable supercookie" level of bad).
+Public key cryptography is only really a good idea when you have a certain degree of trust in whoever physically holds the private key.
+Even if you have a suspect, how do you verify that such a private key has indeed been compromised? The device could've been destroyed or gone missing for any number of very compelling reasons (lost, stolen, etc).
+But a camera can be, and a lot of them are. And you can’t guarantee all sorts of things, like a MitM attack.
+A defense attorney with a kid in IT will tear this kind of thing up, every time. He doesn’t have to be right, just close enough for a jury to have a reasonable doubt… and that takes far less than you’d think.

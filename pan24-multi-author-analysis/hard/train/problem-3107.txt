@@ -1,0 +1,9 @@
+- Bolsonaro has, at best, a rapidly shrinking political power (so much so that he is the first president in brazilian democratic history to not be reelected).
+As stated in the investigation, while the number of votes published by TSE were in line with the printed number of votes by the ballots, this was the only way they could audit the voting process. They didnt get access to third party code, the original code is too big and complex (17 million lines of code) and some technical questions werent answered, so with the things they had access to there wasnt any proof that the election was fraudulent.
+It is fundamentally impossible to check what code a computer is actually running, so you can't know whether any code that you are provided is actually what's running on a given voting computer, so it's irrelevant whether access to some code was provided.
+They weren't, because they can't, that's an inherent problem with all computer-based voting systems.
+There is a reason why hackers worked to get voting computers declared illegal, and that reason is not that they don't understand how computers work.
+No, it's not a truism that elections have particular risks that make use of computers particularly risky.
+No, you are voting with a computer, in the sense that it's a device running software, and that's the problem. The "security steps" are security theater that doesn't actually address the risks that an election process has to address in order to be secure.
+It's just that an ECU doesn't have to solve the security risks of running an election, while a voting computer does.
+Yes the electoral college doesn’t make sense, and the senate is undemocratic because it isn’t proportional. Also gerrymandering would be illegal in Brazil but it’s very easy to manipulate voting districts in the US. The US should study your all’s election system, it’s very strong, lessons learned after all the decades of fascism you had to deal with.

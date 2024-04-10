@@ -1,0 +1,13 @@
+Not really - the XKCD you probably got that info from is outdated. Dictionary attacks go after common words (hence dictionary) and common substitutions. If it can be found in that dictionary, it is functionally 1 unit of complexity and not really any better than a single character.
+If you want the easy to remember, impossible to brute force, pick a sentence and use the entire thing, punctuation and all.
+Just be careful you don't use common phrases. If it's common (e.g. knowledge is power), the whole thing might appear in a good dictionary and then it becomes 1 unit of complexity.
+E.g. the above sentence is 22+ units long (i.e. too long to dictionary attack even with a good dictionary), will never get guessed and is easy enough to remember.
+In a comment further down I specify that adding adding some characters like dashed and backslashes would be better. Capitalization and numbers would help, too. But still, password123 is better than Pass123.
+Would stand up against a dictionary attack, but a clever cracker might test for random strings of letters. Could start with the alphabet sequence. Would be best to add in a dash, or forward/backslash every few letters.
+I use 2-3 different words, some misspelled, a symbol, or not, whether a site asks or accepts it and 2-3 different number combinations sometimes numbers first.
+Dictionaries used in dictionary attacks aren't limited to actual words. They can put in anything they think of, and you can bet the alphabet in order is there.
+Is this a joke? Using the same password everywhere makes you extremely vulnerable. The last past hack is really bad but because of how last pass works, the hackers didnt get any passwords.
+You can get 3³ Passwords with very little effort, all of them hard to brute force. I use different email and password combos for real use and not real, like video game account and a different set or completely unique for bank data.
+Even if they access your account, nothing of real value is lost if you need a new account for plane game. I recently deleted my war thunder account, cause they just fished my data from the company and someone was using it with a VPN, OR sites just sell your email so you can get fished.
+It makes you as vulnerable as someone using password123, though, if they just steal your data from places like this, cause they keep it with Janet who has 30 million of them in plain text format and sends it to anyone who says "hey Jen it's CEO, gib data".
+Also have a shitton of emails all for different uses. Have a porn email, game email, bank email, work email. Best is to use different places too, it's easy with a computer, cause you need windows, so Hotmail and outlook and you need YouTube so Gmail is something you already have.

@@ -1,0 +1,7 @@
+331M/576k = 575 representatives to be distributed based on approximate population counts . There are only 435 reps in the house.
+But it's also not equal still. Senate has the static rule of 2 senators per state, but the House is way off.
+The House has numbers reflective of the number of people per state, while the Senate only has 2 each.
+Both are mostly functioning as intended, there's some gerrymandering occurring, but that generally affects House members and not the Senate.
+That is the idea behind the House of Representatives—to offset population discrepancies caused by the fact that every state gets two senators regardless of population.
+It’s because the senate is intended to represent the interests of the state itself - in other words, each state is considered an equal regardless of population in the senate. The House of Representatives is intended for the interests of the people themselves to be represented, which is why Alaska has 1 representative despite having 2 senators.
+All states interests are equally represented in this way - not defending it necessarily, but that is roughly the intention.

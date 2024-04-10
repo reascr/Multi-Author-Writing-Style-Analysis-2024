@@ -1,0 +1,6 @@
+There's a big-ass asterisk on that tho. For law enforcement purposes they can force your encryption key to renew with a copy being sent to meta so law enforcement can follow your conversations.
+The big question is how long the new encryption key lasts after a law enforcement request. The major concern is that once law enforcement has your encryption key they leak it themselves due to poor security.
+Yeah but this is to be expected. As if there would ever be a mainstream & easy to use platform for communication that cannot be snooped in on.
+Signal is a mainstream and easy to use platform for communication that cannot be snooped in on. It’s an open source WhatsApp clone, essentially.
+I know that WhatsApp uses same encryption than Signal does, so that's solid. But do you trust Meta for not having some sort of backdoor there? Is there any way for me to verify this?
+But the encryption they use is and that's what I'm referring to in my post. What they do with it is another thing, and I do not trust them for a minute.

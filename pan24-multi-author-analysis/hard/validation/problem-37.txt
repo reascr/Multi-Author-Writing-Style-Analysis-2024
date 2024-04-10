@@ -1,0 +1,5 @@
+Most gas is used for building heating. There, it could be replaced by heat pumps powered by renewables. But one challenge is that most energy is needed in winter where solar is sparse.
+Not fit for heat pumps is kind of a myth. There are heat pumps capable of heating even poorly isolated buildings, but they are less efficient. Therefore, it is better to isolate all buildings and then convert them to heat pumps.
+Heat pumps are a much more efficient use of electricity than converting electricity into any kind of fuel. Efficiency of heat pumps can be up to 400%. The problem is not every home and not every heating system is fit for using heat pumps and our capacity for installing new heat pumps already is at its limit.
+Electricity can't be stored though, that's why you get problems when more and more heat pumps are installed. Heat pumps are great when they replace direct heating with electricity, not so great when they replace conventional boilers.
+Replacing all gas and oil boilers with heat pumps would increase demand of electricity during the winter months enormously, it's probably better to develop more environmentally friendly fuels for heating.

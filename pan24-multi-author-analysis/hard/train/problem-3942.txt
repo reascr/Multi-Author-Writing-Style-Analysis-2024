@@ -1,0 +1,5 @@
+They should really get Patriot systems. NASAMS is basically the latest gen Patriot radar with off the shelf air to air missiles like Sidewinder, AMRAAM and Iris-T.
+In larger networks, NASAMS is integrated into the whole range of missile defense, so the real range of a launcher is then just restricted by its missile range. In theory it can launch using a global hawk catching an enemy aircraft far beyond visual range.
+You're also going to have a REAL hard time providing targeting solution via a Global Hawk... sure, they have a radar, but it's a ground scanning radar, not one designed for tracking aerial targets lol.
+I don't believe Ukraine got the AMRAAM-ER NASAMS 3. I believe they're using the older AIM-120A/B/C via NASAMS 2 launchers, maybe even older NASAMS 1 launchers. UK's MOD for example specified they have hundreds of old AIM-120s they can provide to Ukraine to keep their NASAMS units supplied. Those old AIM-120s don't mean much in the context of an AMRAAM-ER.
+Each interceptor is over $1M on their own. That's $72M just for ready to go interceptors, not including any reloads. The Sentinel radar is $70M as well.

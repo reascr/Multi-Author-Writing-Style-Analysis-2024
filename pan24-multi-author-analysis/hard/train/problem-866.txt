@@ -1,0 +1,5 @@
+Visual only drones as recon are just barely useful given they would need to have the map already committed to memory in the drone to get there and back, and you aren’t doing that in a $500 drone. For ordinance the risk of friendly fire would be astronomical with little chance of hitting the intended target.
+Small guided munitions are a great theory but avoiding an incoming munition is one of the few things a drone can accomplish fairly easily and completely autonomously without gps or external comms- they’re amazing at evasive maneuvers.
+Laser communications can be jammed…. You literally just need to fire your own laser at the receiver.
+The laser receivers can be shrouded if they are actively aimed at the other end of the link. Nothing too crazy required to do this. Each drone would need atleast two transceivers to relay communications.
+We are not far from the point where you could send drones on a recon mission without anybody at the controls. Like you give it a heading and a distance and it flies a search pattern then comes back with a highlights reel of anything interesting and a full video of its search as well.

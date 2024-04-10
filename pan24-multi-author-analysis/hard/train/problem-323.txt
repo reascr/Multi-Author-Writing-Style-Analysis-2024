@@ -1,0 +1,6 @@
+We already have decades old economic technology to do so. Pumping stations. They have improved their technology and they are like 85-90% efficient.
+At the core, they fill during the cheapest hours and produce during peak hours. But they aren’t so useful to store for a different month. Although conventional hydro power can do that, if you aren’t concerned about a drought.
+The usual method is hydro, with excess electricity you power up pumps to fill a reservoir; and when experiencing a shortage, let the water down and power the turbines.
+If you really need electricity long term, compressed air and pumped hydro is the way to go. And for short term storage + grid services, batteries are cheaper than peaker plants.
+As for storage, there is no need for any big breakthrough, they all already happened. Now it is just incremental improvements. One of the big thing that is needed to store isn't actually electricity, but heat. And nothing is cheaper than storing heat in thermal storage.
+Of course you can also just use thermal storage for industrial, just reducing the heat requirements for industrial use would taper off demand quite a lot. Enough for solar and wind to fill it, even more so since wind generates more power usually towards winter.
