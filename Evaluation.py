@@ -4,11 +4,6 @@ import os
 import json
 import pandas as pd
 import tensorflow as tf
-#from import_notebook import Notebook
-
-#notebook = Notebook.load(os.path('data_pipeline.ipynb'))
-#create_model_input = notebook.create_input_data # speicher es so ab wie beim Trainieren des Modells
-#from mistralus import model, predict # Model soll von Huggingface geladen werden, es werden Funktionen bereitgestellt
 
 def generate_output(input_dir, output_dir):
     #model = load_model() # load model from Huggingface
@@ -34,7 +29,7 @@ def generate_output(input_dir, output_dir):
                 counter += 1
                 with open(os.path.join(output_dir, output_file_name), "w") as g:
                     json.dump({"changes": predictions_base}, g)
-
+# TO DO: Test with test set whether everything works!
 
 def main():
     parser = argparse.ArgumentParser(description='PAN24 Style Change Detection Task: Creating Output Files')
