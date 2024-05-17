@@ -15,10 +15,9 @@ def generate_output(input_dir, output_dir):
     baseline_model = tf.keras.models.load_model("my_model.h5")
 
     columns = ['paragraph1', 'paragraph2']
-    # Get predictions using the loaded model
-    #test_predictions = baseline_model.predict(X_test)
+
     for file_name in os.listdir(input_dir):
-        counter = 1 # geht besser!
+        counter = 1 # TO DO: CHANGE THAT --> there were some files that were not working
         if file_name.endswith(".txt"):
             data = []
             with open(os.path.join(input_dir, file_name), "r") as f:
@@ -27,14 +26,14 @@ def generate_output(input_dir, output_dir):
                     para1 = paragraphs[j]
                     para2 = paragraphs[j+1]
                     data.append([para1,para2])
-                df = pd.DatFrame(data, columns=columns) # was für einen Input muss ich dem Model geben?
-                # Get predictions using the loaded model
-                test_predictions = baseline_model.predict(df)
+                df = pd.DatFrame(data, columns=columns) # this is enough as input for baseline model
+                # Get predictions using the baseline model
+                predictions_base = baseline_model.predict(df)
                 #prediction = [0,1,1,1]# get predictions from model, should be a list, otherwise transform to list
                 output_file_name = f"solution-problem-{counter}.json"
                 counter += 1
                 with open(os.path.join(output_dir, output_file_name), "w") as g:
-                    json.dump({"changes": prediction}, g)
+                    json.dump({"changes": predictions_base}, g)
 
 
 def main():
