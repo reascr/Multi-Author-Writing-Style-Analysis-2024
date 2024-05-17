@@ -3,6 +3,7 @@ import argparse
 import os
 import json
 import pandas as pd
+import tensorflow as tf
 #from import_notebook import Notebook
 
 #notebook = Notebook.load(os.path('data_pipeline.ipynb'))
@@ -11,7 +12,11 @@ import pandas as pd
 
 def generate_output(input_dir, output_dir):
     #model = load_model() # load model from Huggingface
+    baseline_model = tf.keras.models.load_model("my_model.h5")
+
     columns = ['paragraph1', 'paragraph2']
+    # Get predictions using the loaded model
+    #test_predictions = baseline_model.predict(X_test)
     for file_name in os.listdir(input_dir):
         counter = 1 # geht besser!
         if file_name.endswith(".txt"):
@@ -23,7 +28,9 @@ def generate_output(input_dir, output_dir):
                     para2 = paragraphs[j+1]
                     data.append([para1,para2])
                 df = pd.DatFrame(data, columns=columns) # was für einen Input muss ich dem Model geben?
-                prediction = [0,1,1,1]# get predictions from model, should be a list, otherwise transform to list
+                # Get predictions using the loaded model
+                test_predictions = baseline_model.predict(df)
+                #prediction = [0,1,1,1]# get predictions from model, should be a list, otherwise transform to list
                 output_file_name = f"solution-problem-{counter}.json"
                 counter += 1
                 with open(os.path.join(output_dir, output_file_name), "w") as g:
