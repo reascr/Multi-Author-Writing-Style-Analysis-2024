@@ -1,7 +1,6 @@
 ### Multi Author Writing Style Analysis 2024
 
-This repo contains code and data used for the final project in the class "LP II" for the MSc in IT and Cognition at the University of Copenhagen focusing on style change detection.
-The task was adopted from the PAN at CLEF 2024 challenge and is to identify author changes on the paragraph level (see: https://pan.webis.de/clef24/pan24-web/style-change-detection.html). 
+This repository contains code and data used for the final project in the class "LP II" for the MSc in IT and Cognition at the University of Copenhagen. The project focussed on style change detection, specifically identifying author changes at the paragraph level. The task is derived from the PAN at CLEF 2024 challenge (see: https://pan.webis.de/clef24/pan24-web/style-change-detection.html). 
 
 #### data
 This folder contains 
