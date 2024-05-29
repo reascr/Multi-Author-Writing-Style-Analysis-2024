@@ -23,5 +23,5 @@ This folder contains literature relevant to the task.
 
 - #### embeddings-classifier.ipynb:
   Code to train the embeddings classifier. 
-- ##### test-model.ipynb
+- #### test-model.ipynb
   Code to test the models on the test sets.
