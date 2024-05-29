@@ -5,7 +5,7 @@ This repository contains code and data used for the final project in the class "
 #### data
 This folder contains 
 
-#### data_preprocessing
+#### data_pipeline
 
 - ##### Data_Pipeline.ipynb:
   Code to investigate, clean, and balance the data set.
