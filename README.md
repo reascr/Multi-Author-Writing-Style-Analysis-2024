@@ -9,12 +9,13 @@ This folder contains a script to train a baseline CountVectorizer model using ba
 This folder contains a script to produce solution files in the output required by PAN at CLEF. 
 
 #### data
+This folder contains .csv files for the test and validation data.
 
 #### data_augmentation
-This folder contains a script to create additional training data.  
+This folder contains a script to create additional training data and balancing classes by oversampling. Additionally, it contains teh balanced and augmented training and validation datasets.
 
 #### data_pipeline
-This folder contains a script to process the original data provided by PAN at CLEF.
+This folder contains a script to process the original data provided by PAN at CLEF and the new training and validation datasets.
 
 #### pan24-multi-author-analysis
 Contains the original data provided by PAN at CLEF.
