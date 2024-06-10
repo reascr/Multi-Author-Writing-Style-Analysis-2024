@@ -9,7 +9,7 @@ This folder contains a script to train a baseline CountVectorizer model using ba
 This folder contains a script to produce solution files in the output required by PAN at CLEF. 
 
 #### data
-This folder contains .csv files for the test and validation data and a script for the test split.
+This folder contains .csv files for all data
 
 #### data_augmentation
 This folder contains a script to create additional training data and balancing classes by oversampling. Additionally, it contains teh balanced and augmented training and validation datasets.
@@ -20,8 +20,8 @@ This folder contains a script to process the original data provided by PAN at CL
 #### pan24-multi-author-analysis
 Contains the original data provided by PAN at CLEF.
 
-#### test-results
-This folder contains the test results obtained from the frozen models. 
-
 #### train-embeddings-model
 This folder contains scripts to train and test the frozen embedding models.
+
+#### train-quantized model
+This folder contains scripts to train (mistralus was used for org-org-b and org-aug-b training, train-quant model was used to train and test the org-org-a and org-aug-a models)
