@@ -21,7 +21,7 @@ This folder contains a script to process the original data provided by PAN at CL
 Contains the original data provided by PAN at CLEF.
 
 #### train-embeddings-model
-This folder contains scripts to train and test the frozen embedding models.
+This folder contains scripts to train and test the embedding classifiers.
 
 #### train-quantized model
 This folder contains scripts to train (mistralus was used for org-org-b and org-aug-b training, train-quant model was used to train and test the org-org-a and org-aug-a models).
